@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jogrammer.com</title>
+    <link>https://jogrammer.com/</link>
+    <description>Recent content on jogrammer.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>jmlien42@gmail.com (Joanna Lien)</managingEditor>
+    <webMaster>jmlien42@gmail.com (Joanna Lien)</webMaster>
+    <lastBuildDate>Sat, 08 Feb 2020 11:18:39 -0800</lastBuildDate>
+    
+	<atom:link href="https://jogrammer.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>https://jogrammer.com/page/resume/</link>
+      <pubDate>Sat, 08 Feb 2020 11:18:39 -0800</pubDate>
+      <author>jmlien42@gmail.com (Joanna Lien)</author>
+      <guid>https://jogrammer.com/page/resume/</guid>
+      <description>Joanna Lien 775-764-0878 jmlien42@gmail.com
+General Skills  Excellent written and oral communication Fast learner Thrives in a fast paced environment Organized and able to multitask effectively  Relevant Work Experience Apartments 247.com April 2013 – Sep 2014 Title: Software Integrations Developer
+Duties  Develop integration apps between CMS and 3rd party accounting software Develop integrations for social media Perform code review  Skills  Python XML JSON GIT UNIX  Key Energy Services May 2011 - Oct 2012 Title: Production Control Analyst</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jogrammer.com/page/about/</link>
+      <pubDate>Tue, 04 Feb 2020 18:42:38 -0800</pubDate>
+      <author>jmlien42@gmail.com (Joanna Lien)</author>
+      <guid>https://jogrammer.com/page/about/</guid>
+      <description>Welcome Programmers of All Levels! Who Am I? I am an introductory-level developer who is trying to regain her skills after a five-year hiatus to care for my children. I am vision impaired, though not completely. I currently stay at home with my 3 kids. While most of the initial topics will be geared for beginners, I hope that any experienced developer might enjoy the content of this site.
+Details About This Site This site was made with Hugo, an &amp;ldquo;open-source static site generator&amp;rdquo; written in GoLang.</description>
+    </item>
+    
+  </channel>
+</rss>

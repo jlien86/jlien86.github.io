@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on jogrammer.com</title>
+    <link>https://jogrammer.com/categories/</link>
+    <description>Recent content in Categories on jogrammer.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>jmlien42@gmail.com (Joanna Lien)</managingEditor>
+    <webMaster>jmlien42@gmail.com (Joanna Lien)</webMaster>
+    
+	<atom:link href="https://jogrammer.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
