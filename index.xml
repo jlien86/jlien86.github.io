@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>jmlien42@gmail.com (Joanna Lien)</managingEditor>
     <webMaster>jmlien42@gmail.com (Joanna Lien)</webMaster>
-    <lastBuildDate>Sat, 08 Feb 2020 11:18:39 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2020 12:52:57 -0800</lastBuildDate>
     
 	<atom:link href="https://jogrammer.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://jogrammer.com/post/hello-world/</link>
+      <pubDate>Sat, 08 Feb 2020 12:52:57 -0800</pubDate>
+      <author>jmlien42@gmail.com (Joanna Lien)</author>
+      <guid>https://jogrammer.com/post/hello-world/</guid>
+      <description>What is a programmer? What does he look like? We all seem to have the same image in our minds of what we think that looks like, right? While stereotypes are never fair, they seem to be our brain&amp;rsquo;s default setting to any category of person. Job titles and hobbies are of no exception.
+However, reality is something a bit more diverse. Coders are men and women, old and young, experienced experts and those who are just starting out.</description>
+    </item>
     
     <item>
       <title>Resume</title>
